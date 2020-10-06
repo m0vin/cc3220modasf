@@ -1,0 +1,5 @@
+ 
+
+see ~/dev/kicad/cc3220s/wifi_module/ul_CC3220MODASF12MONR/ for original CC3220MODASF footprint. Some border lines and through holes in the middle thermal ground pads had to be removed and replaced with vias on the board. 
+
+P.Cu is in fact a ground plane and G.Cu is a power plane

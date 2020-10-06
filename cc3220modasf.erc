@@ -1,0 +1,51 @@
+﻿ERC report (09/25/20 12:16:02, Encoding UTF8 )
+
+***** Sheet /
+
+
+
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(93.98 mm, 120.02 mm): Pin 25 (Input) of component U9 is unconnected.
+
+
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(93.98 mm, 122.55 mm): Pin 26 (Input) of component U9 is unconnected.
+
+
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(271.14 mm, 58.42 mm): Pin 1 (Passive) of component R46 is unconnected.
+
+
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(271.78 mm, 63.50 mm): Pin 1 (Passive) of component R52 is unconnected.
+
+
+
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(154.94 mm, 112.39 mm): Pin 11 (Bidirectional) of component U9 is unconnected.
+
+
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(154.94 mm, 104.77 mm): Pin 6 (Bidirectional) of component U9 is unconnected.
+
+
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(154.94 mm, 107.31 mm): Pin 7 (Bidirectional) of component U9 is unconnected.
+
+
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(271.78 mm, 66.04 mm): Pin 1 (Passive) of component R56 is unconnected.
+
+
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(145.41 mm, 33.02 mm): Pin 1 (Passive) of component J19 is unconnected.
+
+
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(237.49 mm, 17.78 mm): Pin 1 (Passive) of component J3 is unconnected.
+
+
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(271.78 mm, 73.66 mm): Pin 1 (Passive) of component R68 is unconnected.
+
+ ** ERC messages: 24  Errors 0  Warnings 24
